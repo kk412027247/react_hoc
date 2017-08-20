@@ -11,5 +11,4 @@ function removeUserProp(WarppedComponent){
   }
 }
 
-
 export default removeUserProp;
